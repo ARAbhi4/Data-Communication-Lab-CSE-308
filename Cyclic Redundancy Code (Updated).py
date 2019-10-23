@@ -1,3 +1,4 @@
+# Sender
 print("Enter your dataword data by binary: ")
 n = input()
 
