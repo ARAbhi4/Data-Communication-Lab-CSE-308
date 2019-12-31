@@ -2,7 +2,7 @@
 print("Enter your Data: ")
 data = input()
 
-print("Enter your cipher data position: range (1 to 7) ")
+print("Enter your cipher data position: range (1 to 26) ")
 
 c = int(input())
 
